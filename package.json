@@ -1,0 +1,15 @@
+{
+  "name": "unroute",
+  "version": "0.0.5",
+  "description": "Removes routes from Express Routers via path/method",
+  "main": "unroute.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jarrett lee",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "isomorphic-fetch": "^2.2.0"
+  }
+}
